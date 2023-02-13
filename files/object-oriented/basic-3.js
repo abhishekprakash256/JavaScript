@@ -50,3 +50,12 @@ const another = new Circle(1);
 
 
 //every object has a constructore object that is used 
+//obeject is stored somewhere in the memeory 
+
+bike.brand = "BWW";
+
+console.log(bike);
+
+another.location = 1;
+
+console.log(another);

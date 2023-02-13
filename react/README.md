@@ -11,6 +11,7 @@ The react js is a front end library that is based on js for making dynamic websi
 - react reacts to the state change as per application.
 - component based architecture, the api for react is very small than the angular js
 - The create command install a light weight server, webpack, bagel 
+- Babble converts the react code to Js code for the browser to understand.
 - 
 
 ### Commands 
